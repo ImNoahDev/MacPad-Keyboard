@@ -1,4 +1,4 @@
-Total Hours: 13
+Total Hours: 14.5
 
 ##  Initial layout (2 hours)
 
@@ -68,3 +68,9 @@ Next I created a plate for my keyboard. First I created my schematic in KLE and 
 ![image.png](/PCB/Images/image-9.png)
 
 Next I will begin to design a case for my PCB.
+
+## Case (1.5 hours)
+
+I designed a case for my PCB My case fully fits my USBc port and will fit my PCB with plate. This case can be 3d printed in 2 parts and is assembled with m3 screws.
+
+![image.png](/PCB/Images/image-10.png)
