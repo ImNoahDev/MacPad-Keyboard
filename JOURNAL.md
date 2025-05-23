@@ -1,4 +1,4 @@
-Total Hours: 12
+Total Hours: 13
 
 ##  Initial layout (2 hours)
 
@@ -60,3 +60,11 @@ I routed the PCB and added a ground plane.
 ![image.png](/PCB/Images/image-8.png)
 
 Although my ground plane is missing from a large part of the PCB, it still links all ground traces together well. I also added 4x m3 screw holes for mounting.
+
+## Plate (1 hour)
+
+Next I created a plate for my keyboard. First I created my schematic in KLE and used a tool to convert KLE to SVG for the plate. I then matched this up with a plotted version of my pcb silkscreen. I then drew the full border, added holes for mounting and added holes for my special components.
+
+![image.png](/PCB/Images/image-9.png)
+
+Next I will begin to design a case for my PCB.
