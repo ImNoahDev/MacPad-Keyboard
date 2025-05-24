@@ -1,26 +1,3 @@
-# The MacPad
-
-The MacPad is a full sized keyboard designed for use with a Mac. The keyboard has 2 rotary encoders and a single fader for custom controls. The keyboard is designed to be used with QMK,
-
-Itc an use any Alps or Cherry MX switches with optional through hole LEDs for backlighting.
-
-![image.png](/image.png)![image.png](/image-1.png)
-
-## Assembly
-
-The PCB screws into the base with M3 screws and the top of the case screws ontop.
-
-## BOM
-
-| Item name         | Item price | Item use                                               | URL                                                                   |
-| ----------------- | ---------- | ------------------------------------------------------ | --------------------------------------------------------------------- |
-| PCB               | $34        | PCB manufacture                                        | jlcpcb.com                                                            |
-| PCB components    | $23.93     | Assemble controller on keyboard + rotary encoder/fader | jlcpcb.com                                                            |
-| PCB Assembly      | $30        | Assemble PCB                                           | jlcpcb.com                                                            |
-| Keyboard switches | $30        | Make the keyboard keyboard                             | [Keyswitches](https://www.keychron.uk/products/keychron-super-switch) |
-| Black fillament   | $24        | Print the case                                         | https://uk.store.bambulab.com/products/petg-hf?id=42010450329660      |
-| Total:            | $141.93    |                                                        |                                                                       |
-
 ## PCB component breakdown
 
 | Designator                                                                                           | Quantity | Value                       | Footprint                               | Package | MPN                | DNP | Mount_Type | Description                                                                            | Price    | Total    | URL                                                                       |
@@ -43,4 +20,8 @@ The PCB screws into the base with M3 screws and the top of the case screws ontop
 | U2, U3                                                                                               | 2        | EC11E18244A5                | EC11E18244A5_ALPS                       |         |                    |     | tht        |                                                                                        | $1.9785  | $3.96    | https://jlcpcb.com/partdetail/Alpsalpine-EC11E18244A5/C255515             |
 | VR1                                                                                                  | 1        | PTB0143-2010BPB103          | PTB01432010BPB103                       |         | PTB0143-2010BPB103 |     | tht        | Bourns PTB0143-2010BPB103 1 Gang Slide Carbon Potentiometer, 10k, +/-20%, 0.5W, Linear | $5.5140  | $5.5140  | https://jlcpcb.com/partdetail/Bourns-PTB01432010BPB103/C17183742          |
 | Y1                                                                                                   | 1        | 16MHz                       | Crystal_SMD_3225-4Pin_3.2x2.5mm         |         |                    |     | smt        |                                                                                        | $0.0356  | $0.0356  | https://jlcpcb.com/partdetail/Yxc_CrystalOscillators-X322516MOB4SI/C12668 |
-|                                                                                                      |          |                             |                                         |         |                    |     |            |                                                                                        | Total:   | $23.93   |                                                                           |
+| PCB Manufacture                                                                                      |          |                             |                                         |         |                    |     |            |                                                                                        |          | $34      |                                                                           |
+| PCB Assembly                                                                                         |          |                             |                                         |         |                    |     |            |                                                                                        |          | $30      |                                                                           |
+| Keyboard switches                                                                                    |          |                             |                                         |         |                    |     |            |                                                                                        |          | $30      |                                                                           |
+| Black fillament                                                                                      |          |                             |                                         |         |                    |     |            |                                                                                        |          | $24      |                                                                           |
+|                                                                                                      |          |                             |                                         |         |                    |     |            |                                                                                        | Total:   | $141.93  |                                                                           |
