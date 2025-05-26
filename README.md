@@ -4,6 +4,8 @@ The MacPad is a full sized keyboard designed for use with a Mac. The keyboard ha
 
 Itc an use any Alps or Cherry MX switches with optional through hole LEDs for backlighting.
 
+![MacPad.png](/MacPad.png)
+
 ![image.png](/image.png)![image.png](/image-1.png)
 
 ## Assembly
