@@ -1,4 +1,4 @@
-Total Hours: 14.5
+Total Hours: 15.5
 
 ##  Initial layout (2 hours)
 
@@ -74,3 +74,7 @@ Next I will begin to design a case for my PCB.
 I designed a case for my PCB My case fully fits my USBc port and will fit my PCB with plate. This case can be 3d printed in 2 parts and is assembled with m3 screws.
 
 ![image.png](/PCB/Images/image-10.png)
+
+## Firmware (1 hour)
+
+I mapped the keyboard in QMK and added the hex file for flashing. I also swapped the backlight and a column pin to have them on the correct pins.
