@@ -1,4 +1,4 @@
-Total Hours: 15.5
+Total Hours: 16.5
 
 ##  Initial layout (2 hours)
 
@@ -78,3 +78,6 @@ I designed a case for my PCB My case fully fits my USBc port and will fit my PCB
 ## Firmware (1 hour)
 
 I mapped the keyboard in QMK and added the hex file for flashing. I also swapped the backlight and a column pin to have them on the correct pins.
+
+## Polishing (1 hour)
+Added a render of the PCB and case together. Rounded some edges on the case. Added holes for rubber feet.
