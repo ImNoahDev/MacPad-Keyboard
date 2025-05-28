@@ -8,10 +8,14 @@ Itc an use any Alps or Cherry MX switches with optional through hole LEDs for ba
 
 ![image.png](/image.png)![image.png](/image-1.png)
 
+![image.png](/image-2.png)![image.png](/image-3.png)
+
 ## Assembly
 
 The Plate must first be soldered underneath the switches (see plate.ai)
+
 The PCB screws into the base with M3 screws and the top of the case screws ontop.
+
 QMK firmware + configuration must be flashed using the macpad.hex file. The reset button can be pressed on the keyboard to put it into flashing mode and to flash the firmware. the F18 button can then be used as a reset button after the initial flash.
 
 ## BOM
