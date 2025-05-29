@@ -1,4 +1,4 @@
-Total Hours: 16.5
+Total Hours: 21.5
 
 ##  Initial layout (2 hours)
 
@@ -80,4 +80,27 @@ I designed a case for my PCB My case fully fits my USBc port and will fit my PCB
 I mapped the keyboard in QMK and added the hex file for flashing. I also swapped the backlight and a column pin to have them on the correct pins.
 
 ## Polishing (1 hour)
+
 Added a render of the PCB and case together. Rounded some edges on the case. Added holes for rubber feet.
+
+## New controller (1 hour)
+
+I have replaced the controller with the more readily available STM32F103ZETx due to cost.
+
+![image.png](/PCB/Images/image-11.png)
+
+## Bluetooth and Battery (2 hours)
+
+This involved finding a ZMK compatible bluetooth chip. I chose the NRF52840-QIAA-R as it is a commonly used chip. I then wired this int he same way as my previous STM32. I am using a 3MHz crystal and have designed a Pi network for my antenna using (in theory) optimal values based on the data sheet.
+
+I have also added a TP4056 battery controller and a 3.3v regulator for battery power to allow wireless use.
+
+![image.png](/PCB/Images/image-12.png)
+
+
+
+## Attempt 3 (2 hours)
+
+Unfortunately i was unable to route the antenna circuitry without printing the board to perform initial tests so i am instead using a RF-BM-ND06 System on board. This makes my design more simple and more reliable. My schamtic now has bluetooth and battery power implimented.
+
+![image.png](/PCB/Images/image-13.png)
