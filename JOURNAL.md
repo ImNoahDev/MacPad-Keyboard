@@ -1,4 +1,4 @@
-Total Hours: 22.5
+Total Hours: 23
 
 ##  Initial layout (2 hours)
 
@@ -103,8 +103,14 @@ Unfortunately i was unable to route the antenna circuitry without printing the b
 
 ![image.png](/PCB/Images/image-13.png)
 
-
-
 ## Routing (1 hour)
 
+Routed the PCB after laying out the components again.
+
 ![image.png](/PCB/Images/image-14.png)
+
+## Case (0.5 hours)
+
+I extended the depth of the case and added a lot to make room for the battery. I then added a hole for the SPST power switch. The battery hole is of sufficient size for any size of battery and an adhesive backing to be chosen.
+
+![image.png](/PCB/Images/image-15.png)
