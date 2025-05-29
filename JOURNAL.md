@@ -1,4 +1,4 @@
-Total Hours: 21.5
+Total Hours: 22.5
 
 ##  Initial layout (2 hours)
 
@@ -97,10 +97,14 @@ I have also added a TP4056 battery controller and a 3.3v regulator for battery p
 
 ![image.png](/PCB/Images/image-12.png)
 
-
-
 ## Attempt 3 (2 hours)
 
 Unfortunately i was unable to route the antenna circuitry without printing the board to perform initial tests so i am instead using a RF-BM-ND06 System on board. This makes my design more simple and more reliable. My schamtic now has bluetooth and battery power implimented.
 
 ![image.png](/PCB/Images/image-13.png)
+
+
+
+## Routing (1 hour)
+
+![image.png](/PCB/Images/image-14.png)
