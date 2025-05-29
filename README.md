@@ -2,7 +2,7 @@
 
 The MacPad is a full sized keyboard designed for use with a Mac. The keyboard has 2 rotary encoders and a single fader for custom controls. The keyboard is designed to be used with QMK,
 
-Itc an use any Alps or Cherry MX switches with optional through hole LEDs for backlighting.
+It can use any Alps or Cherry MX switches with optional through hole LEDs for backlighting.
 
 ![MacPad.png](/MacPad.png)
 
@@ -53,4 +53,3 @@ QMK firmware + configuration must be flashed using the macpad.hex file. The rese
 | VR1                                                                                                  | 1        | PTB0143-2010BPB103          | PTB01432010BPB103                       |         | PTB0143-2010BPB103 |     | tht        | Bourns PTB0143-2010BPB103 1 Gang Slide Carbon Potentiometer, 10k, +/-20%, 0.5W, Linear | $5.5140 | $5.5140 | https://jlcpcb.com/partdetail/Bourns-PTB01432010BPB103/C17183742          |
 | Y1                                                                                                   | 1        | 16MHz                       | Crystal_SMD_3225-4Pin_3.2x2.5mm         |         |                    |     | smt        |                                                                                        | $0.0356 | $0.0356 | https://jlcpcb.com/partdetail/Yxc_CrystalOscillators-X322516MOB4SI/C12668 |
 |                                                                                                      |          |                             |                                         |         |                    |     |            |                                                                                        | Total:  | $23.93  |                                                                           |
-
