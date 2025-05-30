@@ -6,7 +6,9 @@ It can use any Alps or Cherry MX switches with optional through hole LEDs for ba
 
 ![MacPad.png](/MacPad.png)
 
-![image.png](/image.png)![image.png](/image-1.png)
+![image.png](/image.png)![image6.png](/keyboard v4.png)
+
+![image.png](/image-1.png)
 
 ![image.png](/image-2.png)![image.png](/image-3.png)
 
@@ -22,9 +24,9 @@ QMK firmware + configuration must be flashed using the macpad.hex file. The rese
 
 | Item name         | Item price | Item use                                               | URL                                                                    |
 | ----------------- | ---------- | ------------------------------------------------------ | ---------------------------------------------------------------------- |
-| PCB               | $34        | PCB manufacture                                        | jlcpcb.com                                                             |
-| PCB components    | $13        | Assemble controller on keyboard + rotary encoder/fader | jlcpcb.com                                                             |
-| PCB Assembly      | $30        | Assemble PCB                                           | jlcpcb.com                                                             |
+| PCB               | $34        | PCB manufacture                                        | pcbway.com                                                             |
+| PCB components    | $13        | Assemble controller on keyboard + rotary encoder/fader | pcbway.com                                                             |
+| PCB Assembly      | $30        | Assemble PCB                                           | pcbway.com                                                             |
 | Keyboard switches | $30        | Make the keyboard keyboard                             | [Keyswitches](https://www.keychron.uk/products/keychron-super-switch)  |
 | Black fillament   | $24        | Print the case                                         | https://uk.store.bambulab.com/products/petg-hf?id=42010450329660       |
 | Battery           | $10.78     | Battery power                                          | https://www.amazon.co.uk/EEMB-Battery-rechargeable-Connector-Certified |
