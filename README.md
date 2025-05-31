@@ -6,7 +6,7 @@ It can use any Alps or Cherry MX switches with optional through hole LEDs for ba
 
 ![MacPad.png](/MacPad.png)
 
-![image.png](/image.png)![image6.png](/keyboard v4.png)
+![image.png](/image.png)![image6.png](/keyboard-v4.png)
 
 ![image.png](/image-1.png)
 
