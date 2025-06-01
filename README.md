@@ -12,6 +12,8 @@ It can use any Alps or Cherry MX switches with optional through hole LEDs for ba
 
 ![image.png](/image-2.png)![image.png](/image-3.png)
 
+![image.png](/image-4.png)
+
 ## Assembly
 
 The Plate must first be soldered underneath the switches (see plate.ai)
